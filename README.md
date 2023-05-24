@@ -1,3 +1,3 @@
-# PYaint-Module-5
-Group 5 6678 Pyaint module 5 SE
-Either check the ZIP file or the dragged in pyaint
+# Contribution to Techwithtim open source project: Pyaint
+Contributed to an open-source project: Pyaint by Teach with Tim, implemented using Pygame on Python. Added: Straight, dotted, multi and arrowed lines, Shaped Brushes: Rhombus, Circle and Rectangle on the grid, along with Antialiasing, Choosing Custom Brush Sizes and Defining and drawing your own Brush Shape.
+Link to original: https://github.com/techwithtim/PythonPaintProgram
